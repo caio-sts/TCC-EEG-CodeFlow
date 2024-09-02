@@ -1,2 +1,2 @@
 # TCC-EEG-CodeFlow
-Códigos usados no meu TCC
+Esse repositório armazenará os códigos usados no meu TCC
